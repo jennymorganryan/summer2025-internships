@@ -839,7 +839,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Powerbi Intern | Reston, VA | 🔒 | Dec 09 |
 | ↳ | Software Engineering Intern | Remote in USA | 🔒 | Dec 09 |
 | **[Fifth Third Bank](https://simplify.jobs/c/e4b17ec5-deb6-4138-b816-ca9aa34f1a86)** | 2025 Capital Markets Fixed Income – Currencies and Commodities Sales & Trading internship | Cincinnati, OH | 🔒 | Dec 09 |
-| **[Fidelity Investments](https://simplify.jobs/c/Fidelity)** | Advanced Strategies & Research Intern | Boston, MA | 🔒 | Dec 09 |
+| **[Fidelity Investments](https://simplify.jobs/c/Fidelity) ✅** | Advanced Strategies & Research Intern ✅| Boston, MA | 🔒✅ | Dec 09✅ |
 | **[Chatham Financial](https://simplify.jobs/c/73e27fa4-30a7-4b07-b2e9-002fbcef664b)** | Business Quantitative Analyst Internship | Centennial, CO | 🔒 | Dec 09 |
 | **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation)** | Software Engineering Intern - Quality Tooling | Mountain View, CA | 🔒 | Dec 09 |
 | **[Zipline](https://simplify.jobs/c/Zipline)** | Software Engineering Intern - Enterprise Systems - Summer 2025 | San Bruno, CA | 🔒 | Dec 06 |
